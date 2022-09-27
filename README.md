@@ -50,7 +50,7 @@ You can find a [playlist of all videos here](https://www.youtube.com/playlist?li
     * Got the RTC interrupt working properly!
 * [2019-03-31] - **Making an Alarm Clock - Part 1**
     * Reviewed the [`uhr` crate] for tracking wall time and alarms
-    * Implemented a (re-)scheduler to allow alarms to repeat on a fixed weekly schedule
+    * Implemented a (re-)scheduler to allow alarms to repeat on a fixed weekly basis schedule
     * Wrote a no_std unit test for verifying an optimized bit-math algorithm
 
 [2019-02-23]: https://youtu.be/S0VI70nY6Vo
